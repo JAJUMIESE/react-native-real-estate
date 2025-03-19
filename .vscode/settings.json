@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+      "*.css": "tailwindcss",
+      "package-lock.json": "json",
+  "*.json": "json"
+    }
+  }
